@@ -11,6 +11,6 @@ title: About
 
 ## At the end of this program, I wish to master all requirements needed to manage an Artificial Intelligence department.
 
-## You can contact me at murp999@yahoo.co.uk or murp999.github.io
+## You can contact me at murp999@yahoo.co.uk or https://www.murp999.github.io
 
 
