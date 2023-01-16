@@ -3,7 +3,7 @@ layout: about
 title: About
 ---
 
-## Welcome to my MSc A.I. E-Portfolio website.
+## Welcome to my MSc Artificial Intelligence E-Portfolio.
 
 ## Why
 
