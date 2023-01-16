@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: MSc Artificial Intelligence
+title: MSc Artificial Intelligence E-Portfolio
 email: murp999@yahoo.co.uk
 author: MurphyAI
 
