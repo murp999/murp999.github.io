@@ -6,8 +6,6 @@ tags: [Reference, website, certificate]
 
 
 
-### How I built my website
-
 1. I created a Github account
 2. I clones repository from https://github.com/datamounds
 3. I renamed the repository murp999.github.io 
